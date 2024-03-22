@@ -1,0 +1,15 @@
+{
+  "name": "ex-hunter",
+  "version": "1.0.0",
+  "description": "Monitor potential trading opportunities",
+  "main": "main.js",
+  "scripts": {
+    "start": "node ./main.js"
+  },
+  "author": "Dnevend",
+  "license": "ISC",
+  "dependencies": {
+    "node-binance-api": "^0.13.1",
+    "technicalindicators": "^3.1.0"
+  }
+}
